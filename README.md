@@ -1,4 +1,4 @@
 duxduo
 ======
 
-Game using the Anura engine
+Game using the [Anura](https://github.com/anura-engine/anura) engine
